@@ -1,0 +1,7 @@
+## CSV2SQLInsert
+
+A script to convert a .csv file to a .sql file with an insert to insert that data.
+
+Format:
+
+ruby path/to/script.rb path/to/file.csv
